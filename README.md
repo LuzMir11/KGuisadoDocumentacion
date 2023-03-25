@@ -15,4 +15,5 @@ COMANDOS PARA GIT Y GITHUB
 COMANDOS UTILES DE GIT
 "git checkout "branch" " - este comando sirve para poder moverse de una branch a otra, solo tienes que colocar el nombre de la branch a la que te quieres mover
 "git log" - muestrauna lista con los cambios realizados hasta el momento.
+"git fetch" - descarga un branch a tu pc.
 
