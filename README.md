@@ -16,4 +16,4 @@ COMANDOS UTILES DE GIT
 "git checkout "branch" " - este comando sirve para poder moverse de una branch a otra, solo tienes que colocar el nombre de la branch a la que te quieres mover
 "git log" - muestrauna lista con los cambios realizados hasta el momento.
 "git fetch" - descarga un branch a tu pc.
-
+"git merge" - ¡CUIDADO! sirve para cambiar la rama actual, fusiona los cambios de la rama actual con los de otra rama.
