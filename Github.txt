@@ -2,14 +2,21 @@ COMANDOS PARA GIT Y GITHUB
 
 1- Moverse a la carpeta que se va a modificar
 2- dar clic derecho y abrir el "Git Bash"
-3- usar el comando "git status" para comprobar que estas en el branch "revision"
-4- bajar la actualizacion con el comando "git pull"
-5- realizar todos los cambios que quieras
-6- una vez termines de modificar los archivos usa el comando "git status" para confirmar que git __ los cambios (documentos con cambios en rojo)
-7- usa el comando "git add ." o "git add all" para decirle a git que deseas agregar estos cambios
-8- usa el comando "git status" otra vez para asegurarte de que git tiene los cambios listos (documentos en verde)
-9- usa el comando "git commit -m "mensaje" " para que git guarde los cambios en los documentos *no olvides agregar un mensaje para que los demas sepan que cambios se realizaron.
-10- usa el comando "git push" para subir los cambios y que todos los tengan.
+3- bajar la actualizacion con el comando "git pull"
+4- realizar los cambios y modificaciones que te tocan hacer.
+5- una vez termines de modificar los archivos usa el comando "git status" y confirma que git marco de rojo los archivos que modificaste.
+6- usa el comando "git add ." o "git add all" para decirle a git que deseas guardar/agregar estos cambios.
+7- usa el comando "git status" otra vez para asegurarte de que git tiene listo los cambios los archivos ahora estan con letras verdes.
+8- usa el comando "git commit -m "(mensaje)" " para que git guarde los cambios en los documentos *no olvides agregar un mensaje para que los demas sepan que cambios se realizaron.
+9- usa el comando "git push" para subir los cambios y que todos los puedan ver.
+
+COMANDOS UTILES DE LA CONSOLA
+"ls" Muestra todos los archivos de la carpeta actual.
+"ls -l" Muestra en una lista todos los arhivos de la carpeta actual.
+"C:" Te mueve al disco C.
+"D:" Te mueve al disco D.
+"cd .." Te mueve a la carpeta anterior.
+"cd (nombre)" Entras a la carpeta con el nombre (nombre).
 
 MÁS COMANDOS UTILES DE GIT
 "git checkout "branch" " - este comando sirve para poder moverse de una branch a otra, solo tienes que colocar el nombre de la branch a la que te quieres mover
