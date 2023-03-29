@@ -1,5 +1,14 @@
 # RecalientitoDocumentacion
 
-Hace falta que todos cooperen con su parte en el documento "propuesta de valor" y tambien llenen "plan de negocio", gracias.
+Hace falta que todos cooperen con su parte en el documentos "propuesta de valor"
 
-Oliver -> estoy trabajando en el plan de negocio
+"plan de negocio" especificamente:
+
+-Estado del arte y/o de la técnica:
+-Descripción de la problemática:
+-Definición del arquetipo de cliente (110 palabras):
+
+no se preocpen por ahora por el limite de caracteres y palablas.
+Lo importante es recopilar sus ideas, ya despues le daremos forma y formato. Gracias.
+
+Oliver -> Buscando informacion para el plan de negocios
