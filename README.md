@@ -11,4 +11,4 @@ Hace falta que todos cooperen con su parte en el documentos "propuesta de valor"
 no se preocpen por ahora por el limite de caracteres y palablas.
 Lo importante es recopilar sus ideas, ya despues le daremos forma y formato. Gracias.
 
-Oliver -> Buscando informacion para el plan de negocios
+Oliver -> Trabajando en la memoria tecnica
